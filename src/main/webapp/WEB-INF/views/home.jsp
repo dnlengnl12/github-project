@@ -8,7 +8,7 @@
 <h1>
 	Spring Project
 </h1>
-
+회원 가입 페이지
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
